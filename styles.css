@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background-color: #007bff;
+  background-color:#007bff;
   color: white;
   padding: 20px;
   text-align: center;
@@ -20,12 +20,12 @@ h1 {
 }
 
 #a2 {
-  color: Red; /* Use any color you like */
+  color: #007bff; /* Use any color you like */
   text-decoration: none; /* Removes underline */
   font-weight: bold;
 }
 #a1{
-   color: red; /* Use any color you like */
+   color: white; /* Use any color you like */
   text-decoration: none; /* Removes underline */
   font-weight: bold; 
 }
